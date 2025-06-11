@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Professional
 ---------------------------
 
-I am a Cyber Security Professional. I specialise in Network,Application,Cloud Security and Incident Response
+I am an aspring Cyber Security Professional. I specialise in Network,Application,Cloud Security and Incident Response
 
 * ✉️  You can contact me at [reachokezie@gmail.com](mailto:reachokezie@gmail.com)
 * 🧠  I'm learning Pen Testing
